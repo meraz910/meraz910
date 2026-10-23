@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Meraz.</h1>
 <h3 align="center">A passionate Learner from Bangladesh</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/meraz_910" target="blank"><img src="https://img.shields.io/twitter/follow/meraz_910?logo=twitter&style=for-the-badge" alt="meraz_910" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
